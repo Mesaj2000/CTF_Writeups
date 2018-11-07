@@ -62,7 +62,7 @@ Basically, this whole challenge is an exercise in overthinking.
 
 The following image shows the full conversion from ciphertext.txt to flagtext, using cryptii.com
 
-<img src="https://github.com/Mesaj2000/CSAW2018-Writeups/blob/master/BabyCrypto/BabyCryptoWriteUp.PNG">
+<img src="BabyCryptoWriteUp.PNG">
 
 If you look carefully, you'll find something else in the image, too ;)
 
