@@ -1,2 +1,2 @@
-# WriteUps from CSAW 2018 Qualifiers
+# My writeups from CSAW 2018 Qualifiers
 * [BabyCrypto](BabyCrypto/)
