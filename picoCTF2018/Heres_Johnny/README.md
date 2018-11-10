@@ -1,4 +1,4 @@
-The problem gives us two files: "passwd" and "shadow". These should look familiar to linux users.
+The problem gives us two files: "[passwd](passwd.txt)" and "[shadow](shadow.txt)". These should look familiar to linux users.
 
 Password:
 ```
