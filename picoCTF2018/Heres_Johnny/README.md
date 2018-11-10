@@ -34,7 +34,7 @@ def rockYou():
             guess = guess.rstrip("\n")
             myHash = crypt(guess, '$6$HRMJoyGA')
             if myHash == theirHash:
-				return guess
+		return guess
 
     return "NOPE!!!"
 
