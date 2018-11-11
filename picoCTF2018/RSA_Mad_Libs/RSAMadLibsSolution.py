@@ -15,12 +15,9 @@ m = pow(c, d, n)
 
 # The solution to the last question (a number)
 print(m)
-
 print("")
-hex = hex(m)[2:]
-if hex[-1] == "L":
-    hex = hex[:-1]
 
 # After inputing it, it tells us to convert it into hex, then ascii
+hex = hex(m)[2:]
 print(bytearray.fromhex(hex).decode())
 
