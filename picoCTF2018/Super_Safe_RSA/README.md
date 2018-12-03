@@ -24,7 +24,7 @@ We can do the second step with gmpy2.invert, and the third with python's pow fun
 Converting plaintext (a decimal number) into hex, then ascii, gives: `picoCTF{us3_l@rg3r_pr1m3$_2461}`
 
 The [full python script](SuperSafeRSASolution.py) is as follows:
-```
+```python
 from gmpy2 import invert
 
 # Given values
