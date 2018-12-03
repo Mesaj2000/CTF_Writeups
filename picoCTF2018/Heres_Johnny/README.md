@@ -23,7 +23,7 @@ The first hint suggests a brute force attack. The second, after a quick bout of 
 
 
 The problem's title, "Here's Johnny", hints at using a tool called "John the Ripper", a free password cracker that comes with many features, including rockyou attacks. However, for the purposes of this challenge you could just write a quick [python script](JohnnySolution.py) instead:
-```
+```python
 from crypt import crypt
 
 theirHash = "$6$HRMJoyGA$26FIgg6CU0bGUOfqFB0Qo9AE2LRZxG8N3H.3BK8t49wGlYbkFbxVFtGOZqVIq3qQ6k0oetDbn2aVzdhuVQ6US."
